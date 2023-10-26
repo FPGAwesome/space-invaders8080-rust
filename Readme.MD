@@ -32,6 +32,5 @@ To get started with the emulator, follow these steps:
     cargo build --release
 
     Run the emulator:
-    Copy code
     cargo run --release
     ```
