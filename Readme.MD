@@ -10,7 +10,7 @@ This project is a Rust implementation of an emulator for the classic Space Invad
 
 ## Features
 
-- Emulates the 8080 microprocessor, audio hardware, and video hardware of the Space Invaders arcade machine.
+- Emulates the 8080 microprocessor, ~~audio hardware~~, and video hardware of the Space Invaders arcade machine.
 - Fully written in Rust for performance and portability.
 
 ## Getting Started
