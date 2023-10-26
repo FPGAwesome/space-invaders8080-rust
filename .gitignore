@@ -1,0 +1,7 @@
+/target
+invaders*
+*.bin
+test.py
+*.COM
+.vscode
+*.txt
